@@ -1,0 +1,33 @@
+strict digraph "" {
+	ROOT	 [color=red];
+	Child_0	 [color=blue];
+	ROOT -> Child_0	 [color=blue];
+	Child_1	 [color=blue];
+	ROOT -> Child_1	 [color=blue];
+	Child_2	 [color=blue];
+	ROOT -> Child_2	 [color=blue];
+	Child_3	 [color=blue];
+	ROOT -> Child_3	 [color=blue];
+	Child_4	 [color=blue];
+	ROOT -> Child_4	 [color=blue];
+	Grandchild_0	 [color=blue];
+	Child_0 -> Grandchild_0	 [color=blue];
+	Greatgrandchild_0	 [color=blue];
+	Grandchild_0 -> Greatgrandchild_0	 [color=blue];
+	Grandchild_1	 [color=blue];
+	Child_1 -> Grandchild_1	 [color=blue];
+	Greatgrandchild_1	 [color=blue];
+	Grandchild_1 -> Greatgrandchild_1	 [color=blue];
+	Grandchild_2	 [color=blue];
+	Child_2 -> Grandchild_2	 [color=blue];
+	Greatgrandchild_2	 [color=blue];
+	Grandchild_2 -> Greatgrandchild_2	 [color=blue];
+	Grandchild_3	 [color=blue];
+	Child_3 -> Grandchild_3	 [color=blue];
+	Greatgrandchild_3	 [color=blue];
+	Grandchild_3 -> Greatgrandchild_3	 [color=blue];
+	Grandchild_4	 [color=blue];
+	Child_4 -> Grandchild_4	 [color=blue];
+	Greatgrandchild_4	 [color=blue];
+	Grandchild_4 -> Greatgrandchild_4	 [color=blue];
+}

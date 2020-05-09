@@ -1,0 +1,22 @@
+strict digraph "" {
+	Query	 [color=red,
+		shape=normal];
+	cust_inv	 [color=blue,
+		shape=Mrecord];
+	Query -> cust_inv	 [color=blue];
+	trk_s	 [color=blue,
+		shape=Mrecord];
+	Query -> trk_s	 [color=blue];
+	cust	 [color=blue,
+		shape=Mrecord];
+	cust_inv -> cust	 [color=blue];
+	inv	 [color=blue,
+		shape=Mrecord];
+	cust_inv -> inv	 [color=blue];
+	cust1	 [color=blue,
+		shape=Mrecord];
+	trk_s -> cust1	 [color=blue];
+	inv1	 [color=blue,
+		shape=Mrecord];
+	trk_s -> inv1	 [color=blue];
+}
