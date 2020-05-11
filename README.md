@@ -1,1 +1,1 @@
-# SQL-Plot-tool
+# SQL Plot tool
