@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SQL-Plot-tool
 
 This is a small python based tool with `pydot` to visualize SQL query in a tree based structure.
@@ -49,3 +50,8 @@ tree3 = ['<query>',
 
 Output:
 
+||||||| merged common ancestors
+# SQL-Plot-tool
+=======
+# SQL Plot tool
+>>>>>>> dfe88a7d10613779d23c089c821cf164b3bb3a7f
