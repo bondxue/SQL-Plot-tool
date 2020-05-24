@@ -16,6 +16,7 @@ tree2 = ['Query',
 
 Output tree would be: 
 
+<img src="https://github.com/bondxue/SQL-Plot-tool/blob/master/images/demo1.png" width="200">
 
 
 More complex example input:
@@ -49,3 +50,4 @@ tree3 = ['<query>',
 
 Output:
 
+<img src="https://github.com/bondxue/SQL-Plot-tool/blob/master/images/demo.png" width="800">
