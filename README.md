@@ -1,4 +1,4 @@
-# SQL-Plot-tool
+# SQL Plot Tool
 
 This is a small python based tool with `pydot` to visualize SQL query in a tree based structure.
 
